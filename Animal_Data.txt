@@ -1,0 +1,3 @@
+// class , animalName , dietType , foodWeight , sound
+animal,tiger,CARNIVORE,30,roar
+animal,elephant,HERBIVORE,200,trumpet
